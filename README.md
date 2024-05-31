@@ -1,5 +1,5 @@
 # MATBEN296_fto2401_B_MateoBenzien_CDV05
-<h1><i>Simple Developer Portfolio Website</i></h1>h1>
+<h1><i>Simple Developer Portfolio Website</i></h1>
 Objective
 Create a very simple developer portfolio website to showcase your projects, skills, and contact information. This project will help you demonstrate your ability to design and develop a personal website that combines design and user experience, project showcase, content quality, and technical proficiency.
 
